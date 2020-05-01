@@ -1,7 +1,7 @@
 # LoadDLL
 Load external DLL in AviSynth
 
-##AVSRepo
+## AVSRepo
  Install: **[avsrepo install loaddll](https://github.com/theChaosCoder/avsrepo)**
 
 ## Links
