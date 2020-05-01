@@ -1,0 +1,22 @@
+18-12-2006
+
+Loaddll 1.0
+
+used to load dll files in avisynth. Usefull if a filter rely on an externel dll that are not in the system PATH.
+
+usage:
+
+loadDll(string)
+
+where string is the path and file name of the dll to be loaded.
+
+loaddll returns TRUE if it successed in loading the dll else FALSE
+
+example
+
+loaddll("C:\fftw3.dll")
+
+License
+
+loaddll is released under the GPL license see copying.txt for more details
+
